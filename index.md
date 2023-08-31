@@ -1,5 +1,5 @@
 # Vincent Zhao's First CS 193 Homework
 
-- I like learning about terminal
-- I like learning about GitHub
-- I like learning about git
+- Only one class a week
+- Optional PSOs
+- There isn't too much homework
